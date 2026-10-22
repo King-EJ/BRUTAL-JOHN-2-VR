@@ -97,5 +97,6 @@ Hand HUD
   * when leaving arcade (A + B together) one screen stay for about 15 sec
   * flame thrower dual not working correctly
   *  have to turn your body on motorcycle when turning
+  *  guns some time adjust a little fome where you save position but easy readjust live (Hold L3, press Y)  
   *  and more......  
 
